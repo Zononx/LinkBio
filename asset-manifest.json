@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/LinkBio/static/css/main.2d960ef5.chunk.css",
+    "main.js": "/LinkBio/static/js/main.044c014d.chunk.js",
+    "main.js.map": "/LinkBio/static/js/main.044c014d.chunk.js.map",
+    "runtime~main.js": "/LinkBio/static/js/runtime~main.2dd4c34f.js",
+    "runtime~main.js.map": "/LinkBio/static/js/runtime~main.2dd4c34f.js.map",
+    "static/js/2.904ecfe8.chunk.js": "/LinkBio/static/js/2.904ecfe8.chunk.js",
+    "static/js/2.904ecfe8.chunk.js.map": "/LinkBio/static/js/2.904ecfe8.chunk.js.map",
+    "static/js/3.8ba39429.chunk.js": "/LinkBio/static/js/3.8ba39429.chunk.js",
+    "static/js/3.8ba39429.chunk.js.map": "/LinkBio/static/js/3.8ba39429.chunk.js.map",
+    "index.html": "/LinkBio/index.html",
+    "precache-manifest.87019cda80d66f118727003423c358a6.js": "/LinkBio/precache-manifest.87019cda80d66f118727003423c358a6.js",
+    "service-worker.js": "/LinkBio/service-worker.js",
+    "static/css/main.2d960ef5.chunk.css.map": "/LinkBio/static/css/main.2d960ef5.chunk.css.map",
+    "static/media/Qr-huyenbeo-fix.jpeg": "/LinkBio/static/media/Qr-huyenbeo-fix.aac0b2b7.jpeg",
+    "static/media/logo.svg": "/LinkBio/static/media/logo.06e73328.svg",
+    "static/media/sage-avatar.jpeg": "/LinkBio/static/media/sage-avatar.a58a118c.jpeg",
+    "static/media/App.css": "/LinkBio/static/media/sage-background.ec10fa72.jpeg"
+  }
+}
